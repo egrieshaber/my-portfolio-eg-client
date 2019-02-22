@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Eric Grieshaber - Web Development Portfolio Site
 
-Theme Name: KnightOne
-Theme URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+https://egrieshaber.github.io/my-portfolio-eg-client/
