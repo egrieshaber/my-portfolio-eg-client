@@ -147,6 +147,14 @@ body {
   background-color: #fff;
 }
 
+/* works in progress */
+#works-in-progress {
+  padding-top: 60px;
+  text-align: center;
+  padding-bottom: 30px;
+  background-color: #fff;
+}
+
 .h-bold:hover {
   transition: all 0.5s ease;
   transform: scaleX(-5);
